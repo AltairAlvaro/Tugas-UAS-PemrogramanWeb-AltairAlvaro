@@ -1,0 +1,6 @@
+{
+  "env": {
+    "BASE_API": "https://api.gamestoreindonesia.com",
+    "BASE_URL": "https://obabastore.vercel.app"
+  }
+}

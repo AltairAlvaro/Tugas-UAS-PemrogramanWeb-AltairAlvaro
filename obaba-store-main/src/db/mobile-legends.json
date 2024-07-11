@@ -1,0 +1,246 @@
+{
+  "id": 71,
+  "title": "Mobile Legends",
+  "subTitle": "Moonton",
+  "slug": "mobile-legends",
+  "description": "<p style=\"text-align:center;\" size=\"0\" _root=\"undefined\" __ownerid=\"undefined\" __hash=\"undefined\" __altered=\"false\"><sup><span style=\"font-size:12px\"><span style=\"color:#666666\">Layanan Aktif 24 Jam</span></span></sup></p>",
+  "code": "MOBILE_LEGENDS",
+  "type": "topup",
+  "logoUrl": "https://api.gamestoreindonesia.com/media/ml gsi-min-fc68.jpg",
+  "bannerUrl": "https://api.gamestoreindonesia.com/media/info-min-c4ee.jpg",
+  "helperUrl": "https://api-bisnis.vocagame.com/media/ml-helper-saved.png",
+  "isFeatured": false,
+  "siteTitle": null,
+  "siteDescription": null,
+  "siteMeta": [],
+  "siteBannerUrl": null,
+  "items": [
+    {
+      "id": 680,
+      "name": "14 Diamonds (13 + 1 Bonus)",
+      "price": 3632,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/1-min100-8760.png"
+    },
+    {
+      "id": 681,
+      "name": "42 Diamonds (38 + 4 Bonus)",
+      "price": 11231,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/1-min100-8760.png"
+    },
+    {
+      "id": 682,
+      "name": "70 Diamonds (64 + 6 Bonus)",
+      "price": 18707,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/1-min100-8760.png"
+    },
+    {
+      "id": 683,
+      "name": "86 Diamonds (78 + 8 Bonus)",
+      "price": 19712,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/1-min100-8760.png"
+    },
+    {
+      "id": 684,
+      "name": "140 Diamonds (127 + 13 Bonus)",
+      "price": 37449,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/2-min-011f.png"
+    },
+    {
+      "id": 685,
+      "name": "172 Diamonds (156 + 16 Bonus)",
+      "price": 39116,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/2-min-011f.png"
+    },
+    {
+      "id": 686,
+      "name": "257 Diamonds (234 + 23 Bonus)",
+      "price": 59783,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/3-min-3c04.png"
+    },
+    {
+      "id": 687,
+      "name": "284 Diamonds (254 + 30 Bonus)",
+      "price": 74864,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/3-min-3c04.png"
+    },
+    {
+      "id": 702,
+      "name": "344 Diamonds (312 + 32 Bonus)",
+      "price": 78232,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/3-min-3c04.png"
+    },
+    {
+      "id": 688,
+      "name": "355 Diamonds (317 + 38 Bonus)",
+      "price": 93572,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/3-min-3c04.png"
+    },
+    {
+      "id": 689,
+      "name": "429 Diamonds (383 + 46 Bonus)",
+      "price": 97944,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/3-min-3c04.png"
+    },
+    {
+      "id": 703,
+      "name": "514 Diamonds (468 + 46Bonus)",
+      "price": 117656,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/4-min1000-eb8c.png"
+    },
+    {
+      "id": 692,
+      "name": "706 Diamonds (625 + 81 Bonus)",
+      "price": 157080,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/4-min1000-eb8c.png"
+    },
+    {
+      "id": 693,
+      "name": "716 Diamonds (633 + 83 Bonus)",
+      "price": 186473,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/4-min1000-eb8c.png"
+    },
+    {
+      "id": 705,
+      "name": "878 Diamonds (781 + 97 Bonus)",
+      "price": 196196,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/4-min1000-eb8c.png"
+    },
+    {
+      "id": 706,
+      "name": "963 Diamonds (859 + 104 Bonus)",
+      "price": 215908,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/4-min1000-eb8c.png"
+    },
+    {
+      "id": 707,
+      "name": "1412 Diamonds (1250 + 162 Bonus)",
+      "price": 314160,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/5-min2000-43b3.png"
+    },
+    {
+      "id": 695,
+      "name": "1446 Diamonds (1252 + 194 Bonus)",
+      "price": 374354,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/5-min2000-43b3.png"
+    },
+    {
+      "id": 696,
+      "name": "2195 Diamonds (1860 + 335 Bonus)",
+      "price": 471856,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/5-min2000-43b3.png"
+    },
+    {
+      "id": 708,
+      "name": "2901 Diamonds (2485 + 416 Bonus)",
+      "price": 628936,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/5-min2000-43b3.png"
+    },
+    {
+      "id": 697,
+      "name": "2976 Diamonds (2501 + 475 Bonus)",
+      "price": 742049,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/5-min2000-43b3.png"
+    },
+    {
+      "id": 698,
+      "name": "3688 Diamonds (3099 + 589 Bonus)",
+      "price": 787248,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/6-min-dfda.png"
+    },
+    {
+      "id": 709,
+      "name": "4390 Diamonds (3720 + 670 Bonus)",
+      "price": 943712,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/6-min-dfda.png"
+    },
+    {
+      "id": 699,
+      "name": "5532 Diamonds (4649 + 883 Bonus)",
+      "price": 1181488,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/6-min-dfda.png"
+    },
+    {
+      "id": 710,
+      "name": "6238 Diamonds (5274 + 964 Bonus)",
+      "price": 1338568,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/6-min-dfda.png"
+    },
+    {
+      "id": 700,
+      "name": "7502 Diamonds (6252 + 1250 Bonus)",
+      "price": 1855141,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/7-min-f1108.png"
+    },
+    {
+      "id": 701,
+      "name": "9288 Diamonds (7740 + 1548 Bonus)",
+      "price": 1965040,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/7-min-f1108.png"
+    },
+    {
+      "id": 691,
+      "name": "Twilight Pass",
+      "price": 130592,
+      "priceDiscount": null,
+      "iconUrl": "https://api.gamestoreindonesia.com/media/tp-min-56ce.png"
+    }
+  ],
+  "category": {
+    "name": "Mobile Game"
+  },
+  "userInput": {
+    "instructionText": "Untuk mengetahui User ID Anda, silakan klik menu profile dibagian kiri atas pada menu utama game. User ID akan terlihat dibagian bawah Nama Karakter Game Anda. Silakan masukkan User ID Anda untuk menyelesaikan transaksi. Contoh : 12345678(1234).",
+    "fieldSectionTitle": "Masukkan User ID",
+    "itemSectionTitle": "Pilih Nominal Top Up",
+    "paymentSectionTitle": "Pilih Metode Pembayaran",
+    "voucherSectionTitle": "Voucher",
+    "buySectionTitle": "Masukkan Nomor WhatsApp",
+    "fields": [
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "userId",
+          "placeholder": "Masukkan User ID",
+          "type": "tel",
+          "length": "10"
+        }
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "zoneId",
+          "placeholder": "( ...... ) / Server ID",
+          "type": "tel",
+          "length": "5"
+        }
+      }
+    ]
+  }
+}

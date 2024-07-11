@@ -1,0 +1,7 @@
+@import 'tailwindcss/base';
+@import './base.css';
+
+@import 'tailwindcss/components';
+@import './chakra-theme.css';
+
+@import 'tailwindcss/utilities';
